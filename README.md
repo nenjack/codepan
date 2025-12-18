@@ -47,7 +47,7 @@ Doesnt show ads, menu or pan header titles
 ## Credits
 
 - v0.1 &copy; [Egoist](https://github.com/egoist)
-- v0.2+ &copy; [Onizuka-Aniki](https://github.com/nenjack)
+- v0.2+ &copy; [nenjack](https://github.com/nenjack)
 
 ## License
 

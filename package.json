@@ -5,7 +5,7 @@
   "details": "CodePan is where people prototype front-end apps, you are free to use it offline anytime anywhere.",
   "main": "src/index.js",
   "homepage": "https://nenjack.github.io/codepan/",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/nenjack/codepan"
