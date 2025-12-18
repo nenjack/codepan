@@ -1,12 +1,12 @@
 # CodePan
 
-[<img src="https://img.shields.io/circleci/build/github/Jackie-Aniki/codepan/main?style=for-the-badge" alt="build status" />](https://app.circleci.com/pipelines/github/Jackie-Aniki/codepan)
+[<img src="https://img.shields.io/circleci/build/github/nenjack/codepan/main?style=for-the-badge" alt="build status" />](https://app.circleci.com/pipelines/github/nenjack/codepan)
 
 Play with JS/CSS/HTML so simple it hurts, the web playground that works offline.
 
 ## Demo
 
-https://jackie-aniki.github.io/codepan/
+https://nenjack.github.io/codepan/
 
 ## Why
 
@@ -47,7 +47,7 @@ Doesnt show ads, menu or pan header titles
 ## Credits
 
 - v0.1 &copy; [Egoist](https://github.com/egoist)
-- v0.2+ &copy; [Onizuka-Aniki](https://github.com/jackie-aniki)
+- v0.2+ &copy; [Onizuka-Aniki](https://github.com/nenjack)
 
 ## License
 
