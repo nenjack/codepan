@@ -60,7 +60,7 @@
     "reqjs": "^1.0.3",
     "stylus": "^0.54.5",
     "stylus-loader": "^3",
-    "svelte": "^1",
+    "svelte": "^4",
     "v-tippy": "^2.0.0",
     "vue": "^2",
     "vue-inline": "^1.0.1",
